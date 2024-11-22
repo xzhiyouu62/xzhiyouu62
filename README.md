@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at Taipei Municipal Neihu Senior High School.<br>I am currently learning Python, C++, HTML, and CSS.<br>I am interested in cybersecurity and occasionally participate in CTF challenges.<br>My nickname is Youzi or xzhiyouu or xzhiyouu62.
+- a student at Taipei Municipal Neihu Senior High School.<br>- currently learning Python, C++, HTML, and CSS.<br>- interested in cybersecurity and occasionally participate in CTF challenges.<br>- nickname: Youzi or xzhiyouu or xzhiyouu62.
 
 
 ## 🌐 Socials:
